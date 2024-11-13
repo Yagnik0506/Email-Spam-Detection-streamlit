@@ -1,0 +1,7 @@
+1. python -m venv myenv 
+2.  .\myenv\Scripts\activate
+3.  pip install streamlit
+4. streamlit run app.py
+5.  pip3 install scikit-learn
+6. streamlit run app.py  
+7. 
